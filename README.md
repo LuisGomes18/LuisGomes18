@@ -1,24 +1,24 @@
-## Oiii eu sou o Luís, criador de conteúdo de programação e tecnologia!
-
+## Oiii eu sou a Luís Gomes, criador de conteúdo de programação!
 <div align="center">
   <a href="https://github.com/LuisGomes18">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisGomes18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGomes18&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="LuisGomes18-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="LuisGomes18-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="LuisGomes18-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="LuisGomes18-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="LuisGomes18-C++" height="30" width="40" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg">
+  <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Luis-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-  <br>
-  <br>
+  ##
 
-[![Snake animation](https://github.com/LuisGomes18/LuisGomes18/blob/output/github-contribution-grid-snake.svg)](https://github.com/LuisGomes18)
+<div> 
+  <a href="https://www.instagram.com/olluiscarlos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/gcBUx9k6DN" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:luiscgomes0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-<!---
-LuisGomes18/LuisGomes18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  ![Snake animation](https://github.com/LuisGomes18/LuisGomes18/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
