@@ -16,9 +16,7 @@
   <br>
   <br>
 
-<div>
 [![Snake animation](https://github.com/LuisGomes18/LuisGomes18/blob/output/github-contribution-grid-snake.svg)](https://github.com/LuisGomes18)
-  </div>
   
 <!---
 LuisGomes18/LuisGomes18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
