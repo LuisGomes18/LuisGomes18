@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisgomes18" alt="luisgomes18" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando [PAP](https://github.com/LuisGomes18/PAP)
+- 🔭 Atualmente estou trabalhando [Sistema de Ordem de Servico](https://github.com/LuisGomes18/Sistema-de-Ordem-de-Servico)
 
-- 🌱 Atualmente estou aprendendo **MySQL, JS**
+- 🌱 Atualmente estou aprendendo **MySQL, GO**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/LuisGomes18/luisgomes18.github.io](https://github.com/LuisGomes18/luisgomes18.github.io)
 
